@@ -50,7 +50,7 @@ it is still given 0 out of 0 points. The points on labs come from
 making a good faith effort to do the labs (as evidenced by attendance
 and the submission itself), for which you'll see points being
 supplied.
-
+a
 (Of course, the situation is different for problem sets. There, we
 grade both on correctness of the code (as evidenced by passing the
 unit tests) and the quality of the code (based on code review from the
